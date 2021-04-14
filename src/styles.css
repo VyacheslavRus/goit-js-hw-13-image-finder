@@ -8,6 +8,10 @@ html {
   box-sizing: inherit;
 }
 
+body{
+  background-color: burlywood;
+}
+
 .gallery {
   display: flex;
   width: 80%;
@@ -42,18 +46,22 @@ text-align: center;
 }
 
 input{
+  border-radius: 10px;
+  background-color: rgb(172, 192, 235);
   font-size: 30px;
   width: 300px;
   height: 50px;
 }
 
 .btn{
+  border-radius: 10px;
   font-size: 30px;
   width: 100px;
   height: 50px;
 }
 
 .more{
+  border-radius: 10px;
   font-size: 20px;
   width: 150px;
   height: 50px;
