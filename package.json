@@ -1,7 +1,7 @@
 {
   "name": "webpack-starter-kit",
   "version": "1.1.0",
-  "description": "",
+  "description": "Для корректной работы SASS-компилятора и других инструментов, необходимо один\r раз глобально поставить дополнительные пакеты, выполнив в терминале следующие\r команды. Пользователям MacOS ничего делать не нужно.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --env.mode development --config ./webpack/config.js",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
+  "homepage": "https://VyacheslavRus.github.io/goit-js-hw-13-image-finder",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
